@@ -5,7 +5,8 @@ zero-inflated extensions of three classical dependence measures:
 - Zero-inflated Kendall's $\tau^*_{ZI}$
 - Zero-inflated Spearman's $\rho^*_{ZI}$
 - Zero-inflated Gini correlation $\Gamma^*_{ZI}$
-Here is a simple flow chart:
+  
+# Here is a simple flow chart for Simulation study:
 
 
 ```mermaid
