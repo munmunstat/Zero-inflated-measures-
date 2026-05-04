@@ -1,10 +1,10 @@
-# Zero-Inflated Measures
+# Spike at zero Measures
 This repository contains R code, simulation output, and real-data analysis for 
 zero-inflated extensions of three classical dependence measures:
 
-- Zero-inflated Kendall's $\tau^*_{ZI}$
-- Zero-inflated Spearman's $\rho^*_{ZI}$
-- Zero-inflated Gini correlation $\Gamma^*_{ZI}$
+- Spike at zero Kendall's $\tau^*_{ZI}$
+- Spike at zero Spearman's $\rho^*_{ZI}$
+- Spike at zero  Gini correlation $\Gamma^*_{ZI}$
   
 # Here is a simple flow chart for Simulation study:
 
